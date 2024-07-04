@@ -36,6 +36,5 @@ The guide emphasizes the importance of understanding IDE features such as the de
 ## Git and Version Control
 Proper use of Git is discussed extensively to ensure students can manage changes to their projects efficiently. This includes the setup of local and remote repositories, the distinction between different stages of a Git project (modified, staged, committed), and best practices for using Git in a collaborative environment.
 
-## Accomplishments
-Successfully completed Task 1 in Python as part of the lab exercises.
-
+## Accomplishments - Exercise 1
+Choose one of the projects (i.e., select a specific programming language) and extend the calculator so that it can analyze and compute complex mathematical expressions (for example: 2*(4-5/6)/456). For this task, you should use explicit Polish notation evaluation (not the version with simulated stacks using arrays). You may also opt to implement this using trees.
