@@ -71,7 +71,7 @@ Using regex to extract different patterns from a given string.
    </item>
   </channel>
 </rss>
-```
+
 
 2. **Console Program for Processing Text-Based Ebooks:**
    - Developed a console program using collections and generics to process e-books in text format. The program performs tasks such as removing multiple spaces, eliminating multiple newline jumps, and detecting and removing page numbers.
